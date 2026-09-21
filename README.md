@@ -1,4 +1,4 @@
-# Olá! Eu sou o Cláudio 
+# Olá! Eu sou o Claudio 
 
 Estudante de programação e tecnologia.
 
