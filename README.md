@@ -31,3 +31,10 @@ Estudante de programação e tecnologia.
 
 Construir experiência prática em programação, dados e
 inteligência artificial.
+
+
+
+<div>
+<a href="https://github.com/Claudio-1Pereira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-1Pereira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
